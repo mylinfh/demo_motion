@@ -1,0 +1,2 @@
+# demo_motion
+使用ros2运动接口调用cyberdog2自身运动能力的demo
